@@ -16,4 +16,7 @@
     <ProjectReference Include="..\..\StarWars\StarWars.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
 </Project>
